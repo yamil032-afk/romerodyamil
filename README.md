@@ -3,7 +3,7 @@
 ## Analista de Sistemas | Soporte IT | Backend PHP
 
 Santa Fe, Argentina  
-profyamilromero@gmail.com  
+Correo: profyamilromero@gmail.com  
 LinkedIn: www.linkedin.com/in/diego-yamil-leonel-romero
 
 ---
