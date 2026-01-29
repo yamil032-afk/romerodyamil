@@ -35,10 +35,10 @@ Interés en roles técnicos vinculados a:
 
 ---
 
-##  Proyectos Destacados
+##  Proyectos
 
-### 🛠️ Sistema de Gestión para Taller de Chapa y Pintura
-📌 **Proyecto principal**
+###  Sistema de Gestión para Taller de Chapa y Pintura
+ **Proyecto principal**
 
 Sistema web desarrollado para digitalizar y optimizar la gestión administrativa y operativa de un taller mecánico.
 
