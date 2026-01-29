@@ -66,6 +66,5 @@ https://github.com/yamil032-afk/taller-app
 
 - Resolución de problemas técnicos
 - Pensamiento analítico y estructurado
-- Buenas prácticas de desarrollo
 - Comprensión de procesos de negocio
 - Documentación y orden del código
